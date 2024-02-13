@@ -1,0 +1,7 @@
+.git/
+.idea
+venv/
+.ipynb_checkpoints/
+__*
+Deaths_by_Police_US.csv Median_Household_Income_2015.csv Pct_Over_25_Completed_High_School.csv Pct_People_Below_Poverty_Level.csv Pokemon.csv Share_of_Race_By_City.csv statetest.csv us_exports.csv usstates.csv
+Fatal+Force+(start).zip
